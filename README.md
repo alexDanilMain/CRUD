@@ -1,2 +1,2 @@
 # CRUD
-Crud api with mongodb
+Simple CRUD api with mongodb
