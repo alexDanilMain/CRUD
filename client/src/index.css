@@ -1,0 +1,87 @@
+
+.teachersform{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    z-index: 1;
+}
+
+.teachersform input {
+    margin: 5px;
+}
+
+.teachersform button {
+    margin: 5px;
+}
+
+
+.editform {
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin : 5px;
+    z-index: 50;
+    background-color: white;
+    height: 100vh;
+}
+
+.editform input{
+
+    width: 25%;
+    margin: 5px;
+
+}
+
+.hidden{
+    display: none;
+}
+
+.kurser-form{
+    display: flex;
+    justify-content: center;
+}
+.kurser-form input, p{
+    margin: 5px
+}
+
+.teacher-table{
+    width: 100%;
+    padding: 0;
+    margin-top: 50px;
+}
+
+.entire-row{
+    width: 100vw;
+}
+
+.utb-form{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.utb-table{
+    width: 100%;
+
+}
+
+.utb-table tr td{
+    margin: 10px;
+    border: black 1px solid;
+    text-align:center
+}
+
+.ansok-form{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
+.ansok-form input{
+    margin: 5px
+}
